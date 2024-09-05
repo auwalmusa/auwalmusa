@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Auwal Musa – Data Analyst 🚀
 
-<!--
-**auwalmusa/auwalmusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and results-driven **Data Analyst** with expertise in transforming complex datasets into actionable insights. With a solid background in **Data Science** and hands-on experience in a variety of analytical tools, I am skilled at helping organizations make data-driven decisions that drive growth and efficiency.
 
-Here are some ideas to get you started:
+### 💡 Skills & Tools:
+- **Programming**: Python (Pandas, NumPy, Scikit-learn), SQL
+- **Data Visualization**: Power BI, Looker, Matplotlib, Seaborn
+- **Data Analysis**: Statistical Modeling, Machine Learning, Forecasting, Customer Churn Prediction
+- **Other Tools**: Excel, Jupyter Notebooks, Google Sheets, APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Featured Projects:
+- **Sales Forecasting Model**: Developed a Python-based model to forecast sales trends, now adopted as the standard tool for the finance department.
+- **Customer Churn Prediction**: Built an algorithm to predict customer churn, helping reduce churn rates by 25%.
+- **Environmental Data Analysis**: Employed machine learning to analyze environmental datasets and predict air quality index (AQI).
+
+### 🎓 Education:
+- **Data Analytics**, Le Wagon (2024)
+- **MBA in Food Security**, Business Schools Netherlands (2019)
+- **MSc in Environmental Sciences**, King Fahd University (2015)
