@@ -21,6 +21,6 @@ Throughout my academic and professional career, I’ve been dedicated to teachin
 - **Sales Forecasting Model**: Designed a **Python-based** forecasting tool used by the finance department to predict sales trends.
 - **Environmental Sensor Development**: Led a project on the design of **nanotechnology-based** sensors for detecting hormones in water, integrating **machine learning** for data analysis.
 
----
+
 
 
