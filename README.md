@@ -23,11 +23,4 @@ Throughout my academic and professional career, I’ve been dedicated to teachin
 
 ---
 
-## 🎓 Education & Awards
-- **MBA in Food Security**, Business School Netherlands
-- **MSc in Environmental Sciences**, Fahd University of Petroleum and Minerals
-- **Kaplan Pathways Professional Development** for Data Science & AI, 2024
-- **Royal Society of Chemistry Researcher Development Grant**, 2023
-
----
 
