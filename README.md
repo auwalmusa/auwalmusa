@@ -14,12 +14,6 @@ Throughout my academic and professional career, I’ve been dedicated to teachin
 - **Machine Learning**: Predictive Modeling, Data Cleaning, Churn Prediction
 - **Environmental Monitoring**: Water Treatment, Pollutant Detection, Electrochemical Sensors
 
----
-
-## 🌟🏆 Featured Projects
-- **Customer Churn Prediction**: Developed a machine learning algorithm that reduced customer churn by 25% for a service-based company.
-- **Sales Forecasting Model**: Designed a **Python-based** forecasting tool used by the finance department to predict sales trends.
-- **Environmental Sensor Development**: Led a project on the design of **nanotechnology-based** sensors for detecting hormones in water, integrating **machine learning** for data analysis.
 
 
 
