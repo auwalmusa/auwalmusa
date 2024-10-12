@@ -17,7 +17,7 @@ Throughout my academic and professional career, I’ve been dedicated to teachin
 
 
 
-# 🗺 Auwal Musa's Portfolio
+# 🗺 Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
