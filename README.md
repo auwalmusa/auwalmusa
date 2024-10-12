@@ -6,7 +6,7 @@ In my professional journey, I’ve developed predictive models, including algori
 
 Throughout my academic and professional career, I’ve been dedicated to teaching and mentoring students, particularly in **data analysis** and environmental monitoring.
 
----
+***
 
 ## 💡🛠️ Skills & Expertise
 - **Data Science & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL
