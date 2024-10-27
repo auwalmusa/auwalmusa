@@ -33,9 +33,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🌊 [Environmental Pollutant Analysis of LC-MS Data](#) | 2024 | Python, Pandas, Seaborn, Matplotlib | Conducted advanced data analysis of neonicotinoid pollutant concentrations across multiple sites, creating interactive geospatial visualisations to map distribution. |
-| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](#) | 2024 | Python, Monte Carlo Simulation, PyCaret | Performed multi-year analysis of five neonicotinoid levels in UK freshwater bodies using Python; developed predictive models with Monte Carlo Simulation and PyCaret to forecast concentrations and assess future risks. |
-| 💧 [Environmental Pollutant Monitoring and Prediction](#) | 2024 | Python, LC-MS, GC-MS, Machine Learning | Developed a data-driven project using Monte Carlo Simulations and machine learning (PyCaret) to monitor, predict, and assess pollutant concentrations from integrated LC-MS and GC-MS datasets, delivering insights on future trends and spatial hotspots. |
+| 💧 [Environmental Pollutant Analysis of LCMS and GCMS Datasets ](#) | 2024 | Python, Pandas, Seaborn, Matplotlib | Conducted advanced data analysis of neonicotinoid pollutant concentrations across multiple sites, creating interactive geospatial visualisations to map distribution. |
+| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](#) | 2024 | Python, Monte Carlo Simulation | Performed multi-year analysis of neonicotinoid levels in UK freshwater bodies using Python; developed predictive models with Monte Carlo Simulation to forecast concentrations and assess future risks. |
 
 ***
 
@@ -43,9 +42,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 🌊 [Environmental Pollutant Analysis of LC-MS Data](#) | Data Analysis & Visualization | Advanced data analysis of neonicotinoid pollutant concentrations; created interactive geospatial visualizations. | Pandas, Seaborn, Matplotlib |
+| 💧 [Environmental Pollutant Analysis of LC-MS Data](#) | Data Analysis & Visualization | Advanced data analysis of neonicotinoid pollutant concentrations; created interactive geospatial visualizations. | Pandas, Seaborn, Matplotlib |
 | 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](#) | Predictive Modeling | Developed predictive models to forecast pollutant concentrations and assess future risks. | Monte Carlo Simulation, PyCaret |
-| 💧 [Environmental Pollutant Monitoring and Prediction](#) | Machine Learning | Monitored, predicted, and assessed pollutant concentrations using machine learning algorithms. | LC-MS, GC-MS, PyCaret |
 
 ***
 
