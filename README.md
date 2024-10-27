@@ -34,7 +34,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 💧 [Environmental Pollutant Analysis of LCMS and GCMS Datasets ](#) | 2024 | Python, Pandas, Seaborn, Matplotlib | Conducted advanced data analysis of neonicotinoid pollutant concentrations across multiple sites, creating interactive geospatial visualisations to map distribution. |
-| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](#) | 2024 | Python, Monte Carlo Simulation | Performed multi-year analysis of neonicotinoid levels in UK freshwater bodies using Python; developed predictive models with Monte Carlo Simulation to forecast concentrations and assess future risks. |
+| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](#) | 2024 | Python, Monte Carlo Simulation | Performed multi-year analysis of neonicotinoid levels in UK freshwater bodies using Python; developed predictive models with Monte Carlo Simulation to forecast concentrations and assess future risks. |[GitHub Repository: Pesticide Data Analysis](https://github.com/auwalmusa/pesticide-data-analysis)
 
 ***
 
