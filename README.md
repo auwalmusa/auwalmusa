@@ -34,7 +34,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 💧 [Environmental Pollutant Analysis of LCMS and GCMS Datasets ](#) | 2024 | Python, Pandas, Seaborn, Matplotlib | Conducted advanced data analysis of neonicotinoid pollutant concentrations across multiple sites, creating interactive geospatial visualisations to map distribution. |
-| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](#) | 2024 | Python, Monte Carlo Simulation | Performed multi-year analysis of neonicotinoid levels in UK freshwater bodies using Python; developed predictive models with Monte Carlo Simulation to forecast concentrations and assess future risks. |[GitHub Repository: Pesticide Data Analysis](https://github.com/auwalmusa/pesticide-data-analysis)
+| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](https://github.com/auwalmusa/pesticide-data-analysis) | 2024 | Python, Monte Carlo Simulation | Performed multi-year analysis of neonicotinoid levels in UK freshwater bodies using Python; developed predictive models with Monte Carlo Simulation to forecast concentrations and assess future risks. |
 
 ***
 
@@ -43,7 +43,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 💧 [Environmental Pollutant Analysis of LC-MS Data](#) | Data Analysis & Visualization | Advanced data analysis of neonicotinoid pollutant concentrations; created interactive geospatial visualizations. | Pandas, Seaborn, Matplotlib |
-| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](#) | Predictive Modeling | Developed predictive models to forecast pollutant concentrations and assess future risks. | Monte Carlo Simulation, PyCaret |
+| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](https://github.com/auwalmusa/pesticide-data-analysis) | Predictive Modeling | Developed predictive models to forecast pollutant concentrations and assess future risks. | Monte Carlo Simulation |
 
 ***
 
