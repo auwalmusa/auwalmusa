@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Auwal Musa – Research Scientist & Aspiring Data Analyst
+# 👋 Hi, I'm Auwal Musa
 
 I am a **research scientist** and **data analyst** passionate about transforming complex datasets into actionable insights. My expertise spans from **machine learning** and **data visualisation** to environmental monitoring and electrochemical sensor development. I’ve led various data-driven projects on environmental science, helping organizations make informed decisions through accurate and reliable data models.
 
