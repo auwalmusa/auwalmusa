@@ -1,53 +1,47 @@
+
 # 👋 Hi, I'm Auwal Musa
 
-I am a **research scientist** and **data analyst** passionate about transforming complex datasets into actionable insights. My expertise spans from **machine learning** and **data visualisation** to environmental monitoring and electrochemical sensor development. I’ve led various data-driven projects on environmental science, helping organizations make informed decisions through accurate and reliable data models.
+I am a **Research Scientist** and **Data Analyst** passionate about transforming complex datasets into actionable insights. My expertise spans **machine learning**, **data visualization**, and **environmental monitoring**, with a proven track record of delivering high-impact analytical solutions. From predictive modeling to sensor development, I bridge scientific research and data science to drive evidence-based decision-making.
 
-In my professional journey, I’ve developed predictive models, including algorithms for **customer churn prediction** and **sales forecasting**, leveraging **Python**, **SQL**, and **Power BI**. In addition to my work in data science, I have applied advanced material chemistry techniques in electrochemical sensor development, integrating both scientific research and data analytics.
-
-Throughout my academic and professional career, I’ve been dedicated to teaching and mentoring students, particularly in **data analysis** and environmental monitoring.
+Throughout my academic and professional journey, I have developed projects that include customer segmentation, financial forecasting, supply chain optimization, and strategic research funding analysis. I thrive on solving real-world problems and empowering organizations with data-driven strategies.
 
 ---
 
 ## 💡🛠️ Skills & Expertise
-- **Data Science & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL
-- **Data Visualization**: Power BI, Matplotlib, Seaborn, Excel
-- **Machine Learning**: Predictive Modeling, Data Cleaning, Churn Prediction
+- **Data Science & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL)
+- **Data Visualization**: Power BI, Matplotlib, Seaborn, Excel, Tableau
+- **Machine Learning**: Predictive Modeling, Churn Prediction, Regression Analysis
+- **Business Intelligence**: Dashboard Development, KPI Analysis, Strategic Reporting
 - **Environmental Monitoring**: Water Treatment, Pollutant Detection, Electrochemical Sensors
 
-
-
+---
 
 # 🗺 Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+Welcome to my data portfolio! Here, I document a summary of my projects across business analytics and scientific research.
 
-## 📚 Table of Contents
-- [Data Science Projects](#data-science-projects)
-- [Python](#python)
-- [Publications](#publications)
-- [Extracurricular Activities](#extracurricular-activities)
+## 📚 Data Analytics Projects
 
-***
+| Project | Tools | Description |
+|---|---|---|
+| [📊 ODA Research Funding Dashboard (MODARI-UKCDR)](https://github.com/auwalmusa/oda-research-funding-dashboard) | Power BI | Single-page Power BI dashboard analyzing global ODA research funding allocations by region, funder, and theme. |
+| [📈 UKRI Research Output Dynamics](https://github.com/auwalmusa/ukri-research-output-dynamics) | SQL, Power BI | Dynamic dashboard tracking research outputs and collaborations funded by UKRI, supporting strategic insights. |
+| [💰 Financial Forecasting & Scenario Planning](https://github.com/auwalmusa/financial-forecasting-scenario-planning) | SQL, Power BI | Financial scenario modeling platform to forecast revenues, costs, and profitability under varying assumptions. |
+| [🚚 Supply Chain Anomaly Detection & Optimization](https://github.com/auwalmusa/supply-chain-anomaly-detection-optimization) | SQL (PostgreSQL), Power BI | Built a near real-time supply chain analytics suite detecting bottlenecks and optimizing logistics operations. |
+| [🛍️ Customer Segmentation & LTV Prediction](https://github.com/auwalmusa/customer-segmentation-ltv-prediction) | SQL, Python, Power BI | Dynamic customer segmentation and lifetime value prediction engine enabling targeted retention strategies. |
 
-# Data Science Projects
+---
 
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 💧 [Environmental Pollutant Analysis of LCMS and GCMS Datasets ](#) | 2024 | Python, Pandas, Seaborn, Matplotlib | Conducted advanced data analysis of neonicotinoid pollutant concentrations across multiple sites, creating interactive geospatial visualisations to map distribution. |
-| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](https://github.com/auwalmusa/pesticide-data-analysis) | 2024 | Python, Monte Carlo Simulation | Performed multi-year analysis of neonicotinoid levels in UK freshwater bodies using Python; developed predictive models with Monte Carlo Simulation to forecast concentrations and assess future risks. |
+## 🧪 Scientific Research Projects
 
-***
+| Project | Tools | Description |
+|---|---|---|
+| 💧 [Environmental Pollutant Analysis of LCMS and GCMS Datasets](#) | Python, Pandas, Seaborn, Matplotlib | Advanced data analysis of neonicotinoid pollutant concentrations; created interactive geospatial visualizations. |
+| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](https://github.com/auwalmusa/pesticide-data-analysis) | Python, Monte Carlo Simulation | Developed predictive models to forecast pollutant concentrations and assess future risks. |
 
-# Python
+---
 
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-| 💧 [Environmental Pollutant Analysis of LC-MS Data](#) | Data Analysis & Visualization | Advanced data analysis of neonicotinoid pollutant concentrations; created interactive geospatial visualizations. | Pandas, Seaborn, Matplotlib |
-| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](https://github.com/auwalmusa/pesticide-data-analysis) | Predictive Modeling | Developed predictive models to forecast pollutant concentrations and assess future risks. | Monte Carlo Simulation |
-
-***
-
-# Publications
+# 📄 Publications
 
 | Publication | Description |
 |---|---|
@@ -56,20 +50,22 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 📄 **Recent Progress in Screen-Printed Electrochemical Sensors and Biosensors for the Detection of Estrogens** | Musa, A.M., Kiely, J., Luxton, R., & Honeychurch, K.C. (2021). *TrAC Trends in Analytical Chemistry*, 139, 116254. |
 | 🎤 **Water Silent Hormone Monitoring: A Novel Electrochemical Sensor for On-Site Detection of Estradiol in Water** | Musa, A. (2023). Presented at Sensing in Water 2023. |
 
-***
+---
 
-# Extracurricular Activities
+# 🎯 Extracurricular Activities
 
 ## 🛠 Data Science Job Simulations
 British Airways, Boston Consulting Group, Cognizant, Commonwealth Bank, Forage | 2024
-- Completed job simulations involving data management skills.
-- Applied predictive modeling techniques in various data science contexts.
-- Optimized data-driven decision-making.
+- Completed real-world data management and analytics simulations.
+- Applied predictive modeling in business contexts.
+- Enhanced data-driven decision-making capabilities.
 
 ## 🧪 GSK – DIGDATA Career Challenge
 GSK Digdata Step Up Career Challenge - Clinical Trial Data Analysis | 2024
-- Utilized machine learning models to predict patient treatment response in the Miraculon-B clinical trial studies data.
+- Utilized machine learning models to predict patient treatment response.
+- Analyzed clinical trial datasets to improve healthcare insights.
 
-***
+---
 
-Please feel free to explore the projects and activities detailed above. If you have any questions or would like to collaborate, don't hesitate to reach out!
+🌟 **Feel free to explore my projects and publications. Let's connect and collaborate on data-driven solutions!**
+
