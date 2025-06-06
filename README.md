@@ -1,16 +1,16 @@
 
 # 👋 Hi, I'm Auwal Musa
 
-I am a **Research Scientist** and **Data Analyst** passionate about transforming complex datasets into actionable insights. My expertise spans **machine learning**, **data visualization**, and **environmental monitoring**, with a proven track record of delivering high-impact analytical solutions. From predictive modeling to sensor development, I bridge scientific research and data science to drive evidence-based decision-making.
+I am a **Research Scientist** and **Data Analyst** passionate about transforming complex datasets into actionable insights. My expertise spans **machine learning**, **data visualisation**, and **environmental monitoring**, with a proven track record of delivering high-impact analytical solutions. From predictive modelling to sensor development,  in battery, I bridge scientific research and data science to drive evidence-based decision-making.
 
-Throughout my academic and professional journey, I have developed projects that include customer segmentation, financial forecasting, supply chain optimization, and strategic research funding analysis. I thrive on solving real-world problems and empowering organizations with data-driven strategies.
+Throughout my academic and professional journey, I have developed projects that include customer segmentation, financial forecasting, supply chain optimisation, and strategic research funding analysis. I thrive on solving real-world problems and empowering organisations with data-driven strategies.
 
 ---
 
 ## 💡🛠️ Skills & Expertise
 - **Data Science & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL)
-- **Data Visualization**: Power BI, Matplotlib, Seaborn, Excel, Tableau
-- **Machine Learning**: Predictive Modeling, Churn Prediction, Regression Analysis
+- **Data Visualisation**: Power BI, Matplotlib, Seaborn, Excel, Tableau
+- **Machine Learning**: Predictive Modelling, Churn Prediction, Regression Analysis
 - **Business Intelligence**: Dashboard Development, KPI Analysis, Strategic Reporting
 - **Environmental Monitoring**: Water Treatment, Pollutant Detection, Electrochemical Sensors
 
