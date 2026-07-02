@@ -1,71 +1,67 @@
+# Auwal Musa | Data Analyst
 
-# 👋 Hi, I'm Auwal Musa
+I turn messy operational data into insights that change decisions. Every project below follows the same discipline: a clear business problem, transparent methods, and a recommendation someone can act on.
 
-I am a **Research Scientist** and **Data Analyst** passionate about transforming complex datasets into actionable insights. My expertise spans **machine learning**, **data visualisation**, and **environmental monitoring**, with a proven track record of delivering high-impact analytical solutions. From predictive modelling to sensor development,  in battery, I bridge scientific research and data science to drive evidence-based decision-making.
-
-Throughout my academic and professional journey, I have developed projects that include customer segmentation, financial forecasting, supply chain optimisation, and strategic research funding analysis. I thrive on solving real-world problems and empowering organisations with data-driven strategies.
-
----
-
-## 💡🛠️ Skills & Expertise
-- **Data Science & Analysis**: Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL)
-- **Data Visualisation**: Power BI, Matplotlib, Seaborn, Excel, Tableau
-- **Machine Learning**: Predictive Modelling, Churn Prediction, Regression Analysis
-- **Business Intelligence**: Dashboard Development, KPI Analysis, Strategic Reporting
-- **Environmental Monitoring**: Water Treatment, Pollutant Detection, Electrochemical Sensors
+<p align="left">
+  <a href="https://auwalmusa.github.io"><img src="https://img.shields.io/badge/Portfolio-auwalmusa.github.io-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:auwal@waulmusa.com"><img src="https://img.shields.io/badge/Email-auwal%40waulmusa.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/auwal-musa/"><img src="https://img.shields.io/badge/LinkedIn-Auwal%20Musa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-# 🗺 Portfolio
+## Tech Stack
 
-Welcome to my data portfolio! Here, I document a summary of my projects across business analytics and scientific research.
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/KNIME-FDD835?style=for-the-badge&logo=knime&logoColor=black" />
+</p>
 
-## 📚 Data Analytics Projects
-
-| Project | Tools | Description |
-|---|---|---|
-| [📊 ODA Research Funding Dashboard (MODARI-UKCDR)](https://github.com/auwalmusa/oda-research-funding-dashboard) | Power BI | Single-page Power BI dashboard analyzing global ODA research funding allocations by region, funder, and theme. |
-| [📈 UKRI Research Output Dynamics](https://github.com/auwalmusa/ukri-research-output-dynamics) | SQL, Power BI | Dynamic dashboard tracking research outputs and collaborations funded by UKRI, supporting strategic insights. |
-| [💰 Financial Forecasting & Scenario Planning](https://github.com/auwalmusa/financial-forecasting-scenario-planning) | SQL, Power BI | Financial scenario modeling platform to forecast revenues, costs, and profitability under varying assumptions. |
-| [🚚 Supply Chain Anomaly Detection & Optimization](https://github.com/auwalmusa/supply-chain-anomaly-detection-optimization) | SQL (PostgreSQL), Power BI | Built a near real-time supply chain analytics suite detecting bottlenecks and optimizing logistics operations. |
-| [🛍️ Customer Segmentation & LTV Prediction](https://github.com/auwalmusa/customer-segmentation-ltv-prediction) | SQL, Python, Power BI | Dynamic customer segmentation and lifetime value prediction engine enabling targeted retention strategies. |
+SQL (PostgreSQL) · Python (pandas, scikit-learn) · Power BI · Excel · KNIME · Statistical Analysis · Data Cleaning · Stakeholder Reporting
 
 ---
 
-## 🧪 Scientific Research Projects
+## Data Analytics Projects
 
-| Project | Tools | Description |
-|---|---|---|
-| 💧 [Environmental Pollutant Analysis of LCMS and GCMS Datasets](#) | Python, Pandas, Seaborn, Matplotlib | Advanced data analysis of neonicotinoid pollutant concentrations; created interactive geospatial visualizations. |
-| 🐝 [Neonicotinoid Concentration Analysis in Freshwater Bodies](https://github.com/auwalmusa/pesticide-data-analysis) | Python, Monte Carlo Simulation | Developed predictive models to forecast pollutant concentrations and assess future risks. |
-
----
-
-# 📄 Publications
-
-| Publication | Description |
-|---|---|
-| 📄 **An Electrochemical Screen-Printed Sensor Based on Gold-Nanoparticle-Decorated Reduced Graphene Oxide–Carbon Nanotubes Composites for the Determination of 17-β Estradiol** | Musa, A.M., Kiely, J., Luxton, R., & Honeychurch, K.C. (2023). *Biosensors*, 13(4), 491. |
-| 📄 **Graphene-Based Electrodes for Monitoring of Estradiol** | Musa, A.M., Kiely, J., Luxton, R., & Honeychurch, K.C. (2023). *Chemosensors*, 11(6), 337. |
-| 📄 **Recent Progress in Screen-Printed Electrochemical Sensors and Biosensors for the Detection of Estrogens** | Musa, A.M., Kiely, J., Luxton, R., & Honeychurch, K.C. (2021). *TrAC Trends in Analytical Chemistry*, 139, 116254. |
-| 🎤 **Water Silent Hormone Monitoring: A Novel Electrochemical Sensor for On-Site Detection of Estradiol in Water** | Musa, A. (2023). Presented at Sensing in Water 2023. |
+| Project | Tools | Business Problem |
+| --- | --- | --- |
+| [Customer Segmentation & LTV Prediction](https://github.com/auwalmusa/customer-segmentation-ltv-prediction) | SQL, Python, Power BI | Which customers are worth retaining, and what is each segment worth? Segmentation and lifetime value engine enabling targeted retention strategies. |
+| [Supply Chain Anomaly Detection & Optimization](https://github.com/auwalmusa/supply-chain-anomaly-detection-optimization) | SQL (PostgreSQL), Power BI | Where are bottlenecks forming before they disrupt operations? Near real-time analytics suite for detecting anomalies and optimising logistics. |
+| [Financial Forecasting & Scenario Planning](https://github.com/auwalmusa/financial-forecasting-scenario-planning) | SQL, Power BI | How do revenues, costs, and profitability shift under different assumptions? Scenario modelling platform for financial planning. |
+| [ODA Research Funding Dashboard](https://github.com/auwalmusa/oda-research-funding-dashboard) | Power BI | Where does global ODA research funding actually go? Single-page dashboard analysing allocations by region, funder, and theme. |
+| [UKRI Research Output Dynamics](https://github.com/auwalmusa/ukri-research-output-dynamics) | SQL, Power BI | Which UKRI investments produce outputs and collaborations? Dynamic dashboard supporting strategic funding insights. |
+| NHS A&E Performance Analysis (in progress) | SQL, Power BI | Which NHS trusts are deteriorating against the four-hour standard, and why? Built on NHS England open data. |
 
 ---
 
-# 🎯 Extracurricular Activities
+## How I Work
 
-## 🛠 Data Science Job Simulations
-British Airways, Boston Consulting Group, Cognizant, Commonwealth Bank, Forage | 2024
-- Completed real-world data management and analytics simulations.
-- Applied predictive modeling in business contexts.
-- Enhanced data-driven decision-making capabilities.
-
-## 🧪 GSK – DIGDATA Career Challenge
-GSK Digdata Step Up Career Challenge - Clinical Trial Data Analysis | 2024
-- Utilized machine learning models to predict patient treatment response.
-- Analyzed clinical trial datasets to improve healthcare insights.
+1. **Define the business question:** every analysis starts with a written problem statement agreed with stakeholders, not with a dataset.
+2. **Clean, analyse, validate:** reproducible pipelines in SQL and Python, with quality checks before any figure is reported.
+3. **Communicate for action:** dashboards, reports, and presentations that lead with the recommendation.
 
 ---
 
-🌟 **Feel free to explore my projects and publications. Let's connect and collaborate on data-driven solutions!**
+## Scientific Research & Publications
 
+My background is scientific research, which means every number I report has been questioned, validated, and reproduced before it reaches a stakeholder. Peer-reviewed publications in analytical sensing:
+
+- Musa, A.M., Kiely, J., Luxton, R., & Honeychurch, K.C. (2023). *Biosensors*, 13(4), 491.
+- Musa, A.M., Kiely, J., Luxton, R., & Honeychurch, K.C. (2023). *Chemosensors*, 11(6), 337.
+- Musa, A.M., Kiely, J., Luxton, R., & Honeychurch, K.C. (2021). *TrAC Trends in Analytical Chemistry*, 139, 116254.
+
+Related analytics work: [Neonicotinoid Concentration Analysis in Freshwater Bodies](https://github.com/auwalmusa/pesticide-data-analysis) (Python, Monte Carlo simulation for pollutant forecasting).
+
+---
+
+## Professional Development
+
+- GSK DIGDATA Step Up Career Challenge: clinical trial data analysis with ML-based treatment response prediction (2024)
+- Data science job simulations: British Airways, Boston Consulting Group, Cognizant, Commonwealth Bank (Forage, 2024)
+
+---
+
+Open to Data Analyst, Performance Analyst and Business Intelligence Analyst roles across the UK.
