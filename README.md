@@ -28,8 +28,6 @@ SQL (PostgreSQL) · Python (pandas, scikit-learn) · Power BI · Excel · KNIME 
 
 | Project | Tools | Business Problem |
 | --- | --- | --- |
-| [Customer Segmentation & LTV Prediction](https://github.com/auwalmusa/customer-segmentation-ltv-prediction) | SQL, Python, Power BI | Which customers are worth retaining, and what is each segment worth? Segmentation and lifetime value engine enabling targeted retention strategies. |
-| [Supply Chain Anomaly Detection & Optimization](https://github.com/auwalmusa/supply-chain-anomaly-detection-optimization) | SQL (PostgreSQL), Power BI | Where are bottlenecks forming before they disrupt operations? Near real-time analytics suite for detecting anomalies and optimising logistics. |
 | [Financial Forecasting & Scenario Planning](https://github.com/auwalmusa/financial-forecasting-scenario-planning) | SQL, Power BI | How do revenues, costs, and profitability shift under different assumptions? Scenario modelling platform for financial planning. |
 | [ODA Research Funding Dashboard](https://github.com/auwalmusa/oda-research-funding-dashboard) | Power BI | Where does global ODA research funding actually go? Single-page dashboard analysing allocations by region, funder, and theme. |
 | [UKRI Research Output Dynamics](https://github.com/auwalmusa/ukri-research-output-dynamics) | SQL, Power BI | Which UKRI investments produce outputs and collaborations? Dynamic dashboard supporting strategic funding insights. |
