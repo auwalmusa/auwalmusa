@@ -28,10 +28,9 @@ SQL (PostgreSQL) · Python (pandas, scikit-learn) · Power BI · Excel · KNIME 
 
 | Project | Tools | Business Problem |
 | --- | --- | --- |
-| [Financial Forecasting & Scenario Planning](https://github.com/auwalmusa/financial-forecasting-scenario-planning) | SQL, Power BI | How do revenues, costs, and profitability shift under different assumptions? Scenario modelling platform for financial planning. |
 | [ODA Research Funding Dashboard](https://github.com/auwalmusa/oda-research-funding-dashboard) | Power BI | Where does global ODA research funding actually go? Single-page dashboard analysing allocations by region, funder, and theme. |
 | [UKRI Research Output Dynamics](https://github.com/auwalmusa/ukri-research-output-dynamics) | SQL, Power BI | Which UKRI investments produce outputs and collaborations? Dynamic dashboard supporting strategic funding insights. |
-| NHS A&E Performance Analysis (in progress) | SQL, Power BI | Which NHS trusts are deteriorating against the four-hour standard, and why? Built on NHS England open data. |
+| [NHS A&E Performance Analysis](https://github.com/auwalmusa/nhs-ae-performance-analysis) | SQL, Power BI | Which NHS trusts are deteriorating against the four-hour standard, and why? Built on NHS England open data. |
 
 ---
 
